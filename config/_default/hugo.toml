@@ -1,0 +1,6 @@
+baseURL = "https://yoursite.com/"
+theme = "blowfish"
+defaultContentLanguage = "en"
+
+# Enable emoji support
+enableEmoji = true
