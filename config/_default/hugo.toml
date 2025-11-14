@@ -1,8 +1,7 @@
-baseURL = "https://yoursite.com/"
+baseURL = "https://akshaycomics.github.io/akshay.github.io/"
 theme = "blowfish"
 defaultContentLanguage = "en"
 
 # Enable emoji support
 enableEmoji = true
 
-baseURL = "https://akshaycomics.github.io/akshay.github.io/"
